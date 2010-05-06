@@ -35,7 +35,7 @@ The rest of this paper is structured as follows. First, we will present our over
 \section{System Architecture}
 
 %%diagram
-Figure ~\ref{fig:arch} shows 
+Figure ~\ref{fig:arch} shows the structure of our system, as currently implemented. 
 
 
 \subsection{Database Setup}
@@ -47,6 +47,9 @@ Figure ~\ref{fig:arch} shows
 %%user interface
 
 \subsection{Google Mashup}
+
+We currently support two different user interfaces, which we subsequently describe as location-based and name-based. The two views compliment each other in that the location view is useful for presenting a user with the layout of surrounding users, to encourage interaction with new peoepl in the immediately surrounding area, and the name view facilitates interacting with already known users. Figure ~\ref{fig:map1} presents the location view, which is the Google map interface that the user encounters upon logging into the system. 
+Figure ~\ref{fig:userlist} presents a complimentary interface which allows users to scroll through a list of usernames to locate known friends.
 
 \subsection{Modularity}
 
