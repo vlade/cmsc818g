@@ -1,13 +1,19 @@
-This is pdfeTeX, Version 3.141592-1.30.6-2.2 (MiKTeX 2.5) (preloaded format=pdflatex 2008.7.27)  9 MAY 2010 04:20
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.5.13)  9 MAY 2010 21:12
 entering extended mode
-**C:/Users/Vlad/Documents/Maryland/CMSC818G*-*Information-Centric/report.tex
-("C:\Users\Vlad\Documents\Maryland\CMSC818G - Information-Centric\report.tex"
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
 LaTeX2e <2005/12/01>
-Babel <v3.8g> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman, ngerman, french, loaded.
-("C:\Program Files\MiKTeX 2.5\tex\latex\base\article.cls"
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/local/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.5\tex\latex\base\size11.clo"
+(/usr/local/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,10 +28,10 @@ File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\psnfss\times.sty"
+(/usr/local/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\amsfonts\amsfonts.sty"
+(/usr/local/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2001/10/25 v2.2f
 \@emptytoks=\toks14
 \symAMSa=\mathgroup4
@@ -33,52 +39,54 @@ Package: amsfonts 2001/10/25 v2.2f
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\graphics\color.sty"
+(/usr/local/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\00miktex\color.cfg"
-File: color.cfg 2005/12/29 v1.1 MiKTeX 'color' configuration
+(/usr/local/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\graphics\pdftex.def"
+(/usr/local/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
 \Gread@gobject=\count87
 ))
-("C:\Program Files\MiKTeX 2.5\tex\latex\multirow\multirow.sty"
+(/usr/local/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen103
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\ltxmisc\url.sty"
+(/usr/local/texmf-dist/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip10
 Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\base\latexsym.sty"
+(/usr/local/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\graphics\graphicx.sty"
+(/usr/local/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\graphics\keyval.sty"
+(/usr/local/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\graphics\graphics.sty"
+(/usr/local/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\graphics\trig.sty"
+(/usr/local/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.5\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2005/12/29 v1.2 MiKTeX 'graphics' configuration
+(/usr/local/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 90.
 )
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
-) (report.aux)
+) (./report.aux)
+\openout1 = `report.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
@@ -93,10 +101,10 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 21.
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\psnfss\ot1ptm.fd"
+(/usr/local/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Program Files\MiKTeX 2.5\tex\context\base\supp-pdf.tex"
+(/usr/local/texmf-dist/tex/context/base/supp-pdf.tex
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen106
@@ -109,27 +117,27 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \everyMPtoPDFconversion=\toks16
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 23.
- ("C:\Program Files\MiKTeX 2.5\tex\latex\amsfonts\umsa.fd"
+ (/usr/local/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 23.
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\amsfonts\umsb.fd"
+(/usr/local/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 )
 LaTeX Font Info:    Try loading font information for U+lasy on input line 23.
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\base\ulasy.fd"
+(/usr/local/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 23.
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\psnfss\ot1pcr.fd"
+(/usr/local/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Try loading font information for OMS+pcr on input line 23.
 
-("C:\Program Files\MiKTeX 2.5\tex\latex\psnfss\omspcr.fd"
+(/usr/local/texmf-dist/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
@@ -140,14 +148,15 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
  [1
 
-{psfonts.map}]
-<sysarch.png, id=17, 689.4558pt x 488.5452pt>
+{/usr/local/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <sysarch.png, id=9, 
+689.4558pt x 488.5452pt>
 File: sysarch.png Graphic file (type png)
- <use sysarch.png>
+
+<use sysarch.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<phoneapp.png, id=18, 170.5572pt x 304.0158pt>
+<phoneapp.png, id=10, 170.5572pt x 304.0158pt>
 File: phoneapp.png Graphic file (type png)
  <use phoneapp.png> [2]
 
@@ -158,33 +167,37 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 
 LaTeX Warning: Reference `fig:map1' on page 3 undefined on input line 89.
 
+[3 <./sysarch.png>]
 
-LaTeX Warning: Reference `fig:userlist' on page 3 undefined on input line 90.
+LaTeX Warning: Reference `fig:userlist' on page 4 undefined on input line 91.
 
-[3 <sysarch.png>] [4 <phoneapp.png>]
-<sim1.png, id=30, 555.1957pt x 420.11159pt>
+[4 <./phoneapp.png>] [5] <sim1.png, id=25, 555.1957pt x 420.11159pt>
 File: sim1.png Graphic file (type png)
- <use sim1.png> [5 <sim1.png>]
-[6] [7] (report.aux)
+
+<use sim1.png> [6] [7 <./sim1.png>] [8] [9] (./report.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 1299 strings out of 95419
- 15361 string characters out of 1187332
- 61854 words of memory out of 1062994
- 4366 multiletter control sequences out of 60000
- 21251 words of font info for 53 fonts, out of 1000000 for 2000
- 14 hyphenation exceptions out of 8191
- 25i,7n,22p,1253b,275s stack positions out of 5000i,500n,10000p,200000b,32768s
+ 1240 strings out of 94073
+ 16055 string characters out of 1166321
+ 63214 words of memory out of 1500000
+ 4509 multiletter control sequences out of 10000+50000
+ 23120 words of font info for 61 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 25i,7n,22p,1071b,275s stack positions out of 5000i,500n,6000p,200000b,5000s
+{/usr/local/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texmf-dist/fon
+ts/type1/bluesky/cm/cmsy10.pfb></usr/local/texmf-dist/fonts/type1/urw/courier/u
+crr8a.pfb></usr/local/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/t
+exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texmf-dist/fonts/type1/u
+rw/times/utmri8a.pfb>
+Output written on report.pdf (9 pages, 1003733 bytes).
 PDF statistics:
- 44 PDF objects out of 300000
- 0 named destinations out of 300000
- 16 words of extra memory for PDF output out of 10000
-{8r.enc}<C:/Program Files/MiKTeX 2.5/fonts/type1/urw/times/utmri8a.pfb><C:/Pr
-ogram Files/MiKTeX 2.5/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTe
-X 2.5/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.5/fonts/typ
-e1/bluesky/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.5/fonts/type1/urw/times/utm
-r8a.pfb>
-Output written on report.pdf (7 pages, 862795 bytes).
+ 59 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
