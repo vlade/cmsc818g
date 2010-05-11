@@ -41,7 +41,7 @@ is dependent on the venue. Motivated by the previous idea, the Proteus
 group implemented an application that generates dynamic networks that are
 location dependent for a user to immediately recognize people of interest
 and enables a user to establish contact easily with other users. The
-main objective is to facilitate interaction with new people around you.
+main objective is to facilitate interaction with new people around a user.
 Another objective is to build the location-based service with open tools
 and a scalable, general-purpose architecture that is easy to integrate
 with already existing services such as Google Maps \cite{google}.
@@ -106,7 +106,7 @@ to ask the user to reveal their location to a web application in a
 platform independent way. HTML5 geolocation is still in its early stages
 of standardization, however, it is expected to be widely deployed in
 the near future and as the HTML5 standard becomes more pervasive, this
-application will be able to be automatically deployed in any cellphone,
+application will be automatically deployed in any cellphone,
 PDA, iPhone, etc. with a  browser supporting HTML5.
 
 %%diagram
@@ -183,10 +183,10 @@ the last two are just Google Map markers with different icons.
 The web interface keeps track of the users that it is currently
 displaying, because there are two types of updates it performs. First,
 if the web application receives a new user from the  backend server
-then it updates the map with a new marker. If it receives an update for
+then it updates the map with a new marker. If the web application receives an update for
 a users it is already displaying then the web application updates the
-latitude and longitude of the marker in the map. Having these two type
-of updates, as opposed to creating all the users each time it receives
+latitude and longitude of the marker in the map. Having these two types
+of updates, as opposed to creating all the users each time the web interface receives
 an update, makes the movement of the users in the map much smoother due
 to lower processor usage. This increases the memory overhead of the web
 application only slightly. As mentioned above a user through the web
@@ -221,7 +221,7 @@ application system that could be used for a variety of purposes. One possibility
 that a recommendation engine could use this input and match users whose
 Graffiti behavior is similar. Another is using the Graffiti information
 to try to predict a user's behavior. For example, if a user has posted
-negative Graffiti in a restaurant, the web application can take this
+negative Graffiti about a restaurant, the web application can take this
 into account next time it recommends a place to eat. The final example
 is that Graffiti can be used as an indirect way of communicating. The
 Graffiti can be a forum where lots of users post messages. However,
@@ -244,7 +244,7 @@ Since the purpose of the web application is not to keep a
 repository of information for each user like Facebook, and our application
 seeks to facilitate social interaction among users, the profiles are
 slim and provide just enough information for a user to identify and contact
-the user using email or other social networks.
+another user using email or other social networks.
 
 \subsection{CGI Script}
 
@@ -282,7 +282,7 @@ emails and Facebook links. Then the program assigns one of 16 possible
 destinations for each user, and moves each user at a random reasonable
 rate toward their chosen destination, updating the appropriate tables
 in the database at the normal time intervals. The list of possible
-destinations includes itesm such as AV Williams, Stamp Student Union,
+destinations includes places such as AV Williams, Stamp Student Union,
 the library, and downtown. Once a user reaches the assigned destination,
 a new one is chosen for them at random and the simulation proceeds.
 
@@ -315,7 +315,7 @@ we would want to add in privacy features such as anonymous business cards
 and limited location knowledge (e.g. a user may reveal the city they
 are in, but not the exact address). Second, a powerful recommendation
 engine such as one used by Amazon or Netflix is desirable to help focus
-users on certain types of conetent and connect them with users that match
+users on certain types of content and connect them with users that match
 their interests.  Third, complete integration with other social networks
 such as Twitter and Facebook and instant message clients such as GTalk
 or AIM is desirable to enable users to immediately communicate upon
